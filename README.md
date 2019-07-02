@@ -1,1 +1,1 @@
-# JavaPractice
+#data structures assignments.
